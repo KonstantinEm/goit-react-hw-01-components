@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(240, 243, 246);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

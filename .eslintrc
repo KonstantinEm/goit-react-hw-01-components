@@ -1,0 +1,15 @@
+// {
+//   "extends": ["airbnb", "prettier", "airbnb/hooks"],
+//   "plugins": ["prettier"],
+//   "env": {
+//     "browser": true
+//   },
+//   "rules": {
+//     "prettier/prettier": ["error"],
+//     "no-console": "off",
+//     "no-alert": "off",
+//     "strict": "off",
+//     "func-names": ["error", "never"],
+//     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+//   }
+// }
